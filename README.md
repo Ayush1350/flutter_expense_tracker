@@ -13,13 +13,13 @@ A modern Flutter app to **track and manage your daily expenses** with support fo
 
 ## 🖼 Screenshots
 
-### Home Screen
+## 📸 Screenshots
 
-![Home](image1.png)
-
-### Add Expense Screen
-
-![Add Expense](image2.png)
+<p align="center">
+  <img src="assets/screenshots/image1.png" alt="Home" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/image2.png" alt="Add Expense" width="200"/>
+</p>
 
 ---
 
